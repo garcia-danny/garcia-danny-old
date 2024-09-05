@@ -5,7 +5,7 @@ Hi! I'm Danny. I'm a student, self-taught web developer, and a cybersecurity ent
 I am based in Los Angeles, California, currently pursuing a degree in Computer Science and Cybersecurity.
 
 <h3>Current Weather</h3>
-<p>As of Thursday, September 5, 2024 at 11:36 AM PDT, the weather in Los Angeles is clear sky with a temperature of 94°F.</p>
+<p>As of Thursday, September 5, 2024 at 12:00 PM PDT, the weather in Los Angeles is clear sky with a temperature of 97°F.</p>
 
 <h4>Note:</h4>
 <p>The weather data is refreshed every hour to ensure accuracy.</p>
@@ -38,6 +38,5 @@ I am based in Los Angeles, California, currently pursuing a degree in Computer S
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
 
 <p>If you'd like to reach out to me, feel free to contact me via any of the platforms above!</p>
