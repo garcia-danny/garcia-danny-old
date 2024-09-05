@@ -14,7 +14,7 @@ Fun Fact: The weather above gets refreshed hourly, and I was last refreshed on F
   <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" alt="Safari"/>
 </div>
 
-<h2>Stuff I use/h2>
+<h2>Stuff I use </h2>
 <div style="display: flex; gap: 10px;">
   <img src=(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
@@ -23,7 +23,7 @@ Fun Fact: The weather above gets refreshed hourly, and I was last refreshed on F
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11"/>
 </div>
 
-<h2>Socials and Contacts/h2>
+<h2>Socials and Contacts </h2>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CSS3"/> 
 
 
