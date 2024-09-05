@@ -1,15 +1,16 @@
-<h2>Welcome! <a href="https://github.com/garcia-danny"> <img src="https://visitor-badge.laobi.icu/badge?page_id=garcia-danny" alt="Visitors"></a></h2>
+<h2>Welcome! <a href="https://github.com/garcia-danny"> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=garcia-danny" alt="Visitors"></a></h2>
 
-
-Hi! I'm Danny, I'm a student, Self-Taught Web Developer, and a CyberSecurity Enthusiast. 
-I am located in Los Angeles, California, studying in Cpmputer Science and Cybersecurity.
+Hi! I'm Danny. I'm a student, self-taught web developer, and a cybersecurity enthusiast.
+I am located in Los Angeles, California, studying Computer Science and Cybersecurity.
 
 It is currently 87°F here, with clear sky!
-Fun Fact: The weather above gets refreshed hourly, I was last refreshed on Friday 6 September at 00:23 GMT+8! 
+Fun Fact: The weather above gets refreshed hourly, and I was last refreshed on Friday 6 September at 00:26 GMT+8!
 
-<h2> Browsers I use </h2>
-[Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) [Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) [Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+<h2>Browsers I Use</h2>
+<img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave Browser"/> 
+<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Google Chrome"/>
+<img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" alt="Safari"/>
 
-
-Welcome! I am Danny, reporting that the current weather is clear sky and the temperature is 87°F.
-Last refresh at Friday 6 September at 00:23 GMT+8.
+<p>Welcome! I am Danny, reporting that the current weather is clear sky and the temperature is 87°F.
+Last refresh was at Friday 6 September at 00:26 GMT+8.</p>
