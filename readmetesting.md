@@ -1,10 +1,18 @@
-<!-- Main Container -->
+<!-- Container for Date (Top Right) -->
+<div align="right">
+  <p><strong>{{date}}</strong></p>
+</div>
+
+<!-- Centered Profile Picture and Bio -->
 <div align="center">
   <!-- Profile Picture -->
   <img src="https://your-profile-picture-url-here" alt="Profile Picture" width="200" style="border-radius: 50%;">
 
   <!-- Short Bio -->
   <h2>Student | Self-Taught Web Developer | Aspiring Cybersecurity Enthusiast</h2>
+  
+  <!-- Weather Information -->
+  <p><strong>Current Weather: {{temperature}}°F, {{weather}}</strong></p>
 
   <!-- Social Icons -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
@@ -19,20 +27,3 @@
     </a>
   </div>
 </div>
-
-<!-- Weather and Date Section -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <!-- Date (Top-Right Corner) -->
-  <div style="position: absolute; top: 0; right: 0; margin: 10px;">
-    <p>{{date}}</p>
-  </div>
-
-  <!-- Weather Information -->
-  <div align="center" style="margin-top: 30px;">
-    <h3>Weather Update 🌤</h3>
-    <p>Current Temperature: {{temperature}}°F</p>
-    <p>Condition: {{weather}}</p>
-  </div>
-</div>
-
-<p align="center">Weather data is updated hourly based on real-time information.</p>
