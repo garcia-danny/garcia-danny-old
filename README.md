@@ -5,11 +5,11 @@ Hi! I'm Danny, I'm a student, Self-Taught Web Developer, and a CyberSecurity Ent
 I am located in Los Angeles, California, studying in Cpmputer Science and Cybersecurity.
 
 It is currently 87°F here, with clear sky!
-Fun Fact: The weather above gets refreshed hourly, I was last refreshed on Friday 6 September at 00:22 GMT+8! 
+Fun Fact: The weather above gets refreshed hourly, I was last refreshed on Friday 6 September at 00:23 GMT+8! 
 
 <h2> Browsers I use </h2>
 [Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) [Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) [Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
 
 Welcome! I am Danny, reporting that the current weather is clear sky and the temperature is 87°F.
-Last refresh at Friday 6 September at 00:22 GMT+8.
+Last refresh at Friday 6 September at 00:23 GMT+8.
