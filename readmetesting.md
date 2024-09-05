@@ -6,7 +6,7 @@
 <!-- Centered Profile Picture and Bio -->
 <div align="center">
   <!-- Profile Picture -->
-  <img src="https://your-profile-picture-url-here" alt="Profile Picture" width="200" style="border-radius: 50%;">
+  <img src="https://litter.catbox.moe/av08dz.jpeg" alt="Profile Picture" width="200" style="border-radius: 50%;">
 
   <!-- Short Bio -->
   <h2>Student | Self-Taught Web Developer | Aspiring Cybersecurity Enthusiast</h2>
