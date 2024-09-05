@@ -1,11 +1,14 @@
-<h2>Welcome! <a href="https://github.com/garcia-danny"> 
+<h2>Welcome! <a href="https://github.com/garcia-danny">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=garcia-danny" alt="Visitors"></a></h2>
 
 Hi! I'm Danny. I'm a student, self-taught web developer, and a cybersecurity enthusiast.
-I am located in Los Angeles, California, studying Computer Science and Cybersecurity.
+I am based in Los Angeles, California, currently pursuing a degree in Computer Science and Cybersecurity.
 
-It is currently 94°F here, with clear sky!
-Fun Fact: The weather above gets refreshed hourly, and I was last refreshed on Thursday, September 5, 2024 at 11:24 AM PDT!
+<h3>Current Weather</h3>
+<p>As of Thursday, September 5, 2024 at 11:25 AM PDT, the weather in Los Angeles is clear sky with a temperature of 94°F.</p>
+
+<h4>Note:</h4>
+<p>The weather data is refreshed every hour to ensure accuracy.</p>
 
 <h2>Browsers I Use</h2>
 <div style="display: flex; gap: 10px;">
@@ -14,7 +17,7 @@ Fun Fact: The weather above gets refreshed hourly, and I was last refreshed on T
   <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" alt="Safari"/>
 </div>
 
-<h2>Stuff I Use</h2>
+<h2>Technologies I Use</h2>
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
@@ -36,5 +39,4 @@ Fun Fact: The weather above gets refreshed hourly, and I was last refreshed on T
   </a>
 </div>
 
-<p>Welcome! I am Danny, reporting that the current weather is clear sky and the temperature is 94°F.
-Last refresh was at Thursday, September 5, 2024 at 11:24 AM PDT.</p>
+<p>If you'd like to reach out to me, feel free to contact me via any of the platforms above!</p>
