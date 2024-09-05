@@ -66,11 +66,14 @@ async function generateReadMe() {
   }
 }
 
-// Main action
-async function action() {
+// Main function to execute async actions
+async function main() {
   await setWeatherInformation();  // Fetch weather data
   await generateReadMe();         // Generate the README.md
 }
 
-// Execute the main action
-await action();
+// Execute the main function
+main().catch(err => {
+  console.error('Unhandled error:', err);
+  process.exit(1);
+});
