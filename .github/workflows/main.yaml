@@ -1,40 +1,46 @@
-name: Autobuild README
+name: Build and Update README
 
 on:
   push:
     branches:
       - main
   schedule:
-    # README updates every new hour
-    # Use '0 */1 * * *' or '@hourly'
-    - cron: '0 */1 * * *'
+    - cron: '0 * * * *'  # Runs hourly
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout current repository to main branch
-        uses: actions/checkout@v2.3.4
-      - name: Setup Node.js 13.x
-        uses: actions/setup-node@v2.3.0
-        with:
-          node-version: '13.x'
-      - name: Cache dependencies and build outputs
-        uses: actions/cache@v2.1.6
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node index.js
-        env:
-          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-      - name: Commit and push new README.md
-        run: |-
-          git diff
-          git config --global user.email "actions@users.noreply.github.com"
-          git config --global user.name "README-bot"
-          git commit -a -m "Hourly content update" || exit 0
-          git push
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run script
+      env:
+        OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
+      run: node index.js
+
+    # Step to pull latest changes from remote before pushing
+    - name: Pull latest changes
+      run: git pull origin main
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: 'github-actions'
+        author_email: 'actions@github.com'
+        message: 'Update README with current weather'
+        add: 'README.md'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
