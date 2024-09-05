@@ -7,24 +7,25 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
   name: 'Danny',
-  date: new Date().toLocaleDateString('en-GB', {
+  date: new Intl.DateTimeFormat('en-US', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
+    year: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Asia/Singapore',
-  }),
+    timeZone: 'America/Los_Angeles',  // PST Time Zone
+  }).format(new Date()),
 };
 
 // Fetch weather information
 async function setWeatherInformation() {
   try {
     const response = await fetch(
-        `https://api.openweathermap.org/data/2.5/weather?lat=34.05&lon=-118.24&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=imperial`
-      );
-      
+      `https://api.openweathermap.org/data/2.5/weather?lat=34.05&lon=-118.24&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=imperial`
+    );
+    
     if (!response.ok) {
       const errorData = await response.json();
       throw new Error(`API Error: ${errorData.message}`);
