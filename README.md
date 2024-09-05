@@ -39,4 +39,5 @@ I am based in Los Angeles, California, currently pursuing a degree in Computer S
   </a>
 </div>
 
+
 <p>If you'd like to reach out to me, feel free to contact me via any of the platforms above!</p>
