@@ -5,7 +5,7 @@ Hi! I'm Danny. I'm a student, self-taught web developer, and a cybersecurity ent
 I am based in Los Angeles, California, currently pursuing a degree in Computer Science and Cybersecurity.
 
 <h3>Current Weather</h3>
-<p>As of Sunday, November 3, 2024 at 6:55 PM PST, the weather in Los Angeles is clear sky with a temperature of 65°F.</p>
+<p>As of Sunday, November 3, 2024 at 7:29 PM PST, the weather in Los Angeles is clear sky with a temperature of 64°F.</p>
 
 <h4>Note:</h4>
 <p>The weather data is refreshed every hour to ensure accuracy.</p>
