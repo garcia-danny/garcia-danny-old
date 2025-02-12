@@ -5,7 +5,7 @@ Hi! I'm Danny. I'm a student, self-taught web developer, and a cybersecurity ent
 I am based in Los Angeles, California, currently pursuing a degree in Computer Science and Cybersecurity.
 
 <h3>Current Weather</h3>
-<p>As of Wednesday, February 12, 2025 at 5:24 AM PST, the weather in Los Angeles is overcast clouds with a temperature of 51°F.</p>
+<p>As of Wednesday, February 12, 2025 at 6:18 AM PST, the weather in Los Angeles is overcast clouds with a temperature of 50°F.</p>
 
 <h4>Note:</h4>
 <p>The weather data is refreshed every hour to ensure accuracy.</p>
