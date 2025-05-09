@@ -5,7 +5,7 @@ Hi! I'm Danny. I'm a student, self-taught web developer, and a cybersecurity ent
 I am based in Los Angeles, California, currently pursuing a degree in Computer Science and Cybersecurity.
 
 <h3>Current Weather</h3>
-<p>As of Friday, May 9, 2025 at 6:30 AM PDT, the weather in Los Angeles is fog with a temperature of 59°F.</p>
+<p>As of Friday, May 9, 2025 at 7:21 AM PDT, the weather in Los Angeles is mist with a temperature of 61°F.</p>
 
 <h4>Note:</h4>
 <p>The weather data is refreshed every hour to ensure accuracy.</p>
