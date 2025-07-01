@@ -5,7 +5,7 @@ Hi! I'm Danny. I'm a student, self-taught web developer, and a cybersecurity ent
 I am based in Los Angeles, California, currently pursuing a degree in Computer Science and Cybersecurity.
 
 <h3>Current Weather</h3>
-<p>As of Monday, June 30, 2025 at 7:06 PM PDT, the weather in Los Angeles is clear sky with a temperature of 77°F.</p>
+<p>As of Monday, June 30, 2025 at 9:00 PM PDT, the weather in Los Angeles is broken clouds with a temperature of 69°F.</p>
 
 <h4>Note:</h4>
 <p>The weather data is refreshed every hour to ensure accuracy.</p>
