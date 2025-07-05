@@ -5,7 +5,7 @@ Hi! I'm Danny. I'm a student, self-taught web developer, and a cybersecurity ent
 I am based in Los Angeles, California, currently pursuing a degree in Computer Science and Cybersecurity.
 
 <h3>Current Weather</h3>
-<p>As of Friday, July 4, 2025 at 6:50 PM PDT, the weather in Los Angeles is clear sky with a temperature of 76°F.</p>
+<p>As of Friday, July 4, 2025 at 8:15 PM PDT, the weather in Los Angeles is haze with a temperature of 70°F.</p>
 
 <h4>Note:</h4>
 <p>The weather data is refreshed every hour to ensure accuracy.</p>
